@@ -306,6 +306,9 @@ body {
     .card {
         width: 50%;
         height: auto;
+        display: grid;
+        margin: auto;
+        margin-bottom: 5%;
     }
 
     .card h4 {
@@ -361,7 +364,7 @@ body {
     }
     .btn{
         margin-top: 10%;
-        width: 30%;
+        width: 20%;
     }
     
 }
